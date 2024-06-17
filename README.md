@@ -1,4 +1,4 @@
-# Meu Repositorio de Autenticaçõoes - DIO
+# Meu Repositorio de Autenticações - DIO
 Repositório de Autenticações - DIO
 
 1 - Autenticação Login e Senha de Usuário **** 
